@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaMay.iml" filepath="$PROJECT_DIR$/JavaMay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1_Alina/lesson1_Alina.iml" filepath="$PROJECT_DIR$/lesson1_Alina/lesson1_Alina.iml" />
+    </modules>
+  </component>
+</project>
